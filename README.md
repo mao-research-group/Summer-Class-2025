@@ -1,6 +1,6 @@
 # 🌞 Summer Class: Machine Learning & Data Science
 
-This repository contains materials for a summer lecture series on **Machine Learning and Data Science**, including lecture slides and demo code. It is designed for beginners for basic understanding of machine learning.
+This repository contains materials for a summer lecture series on **Machine Learning and Data Science**, including lecture slides and demo codes. It is designed for beginners for basic understanding of machine learning.
 
 ## 📚 Course Overview
 
