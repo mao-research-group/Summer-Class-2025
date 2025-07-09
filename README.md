@@ -10,7 +10,7 @@ The course introduces key topics in:
 - Singular Value Decomposition
 - Fourier Analysis
 - Linear Regression
-- Dynamical System
+- Dynamical Systems
 
 Each topic is accompanied by:
 - Lecture slides in PDF
